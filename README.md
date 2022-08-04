@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Stafilo
+- 👀 I’m looking for Roblox Lua scripting jobs and offers
+- 📫 Discord : Stafilo#4781
